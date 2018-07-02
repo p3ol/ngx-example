@@ -34,6 +34,13 @@ Component(
         constructor: ->
             @onLogin = new EventEmitter()
 
+        ngOnInit: ->
+            poool "event", "onLoginClick", @onLoginClick
+
+        onLoginClick: (e) =>
+            @login()
+            e.originalEvent?.preventDefault?()
+
         isLogged: ->
             window.test_user?.logged is true
 
@@ -53,6 +60,7 @@ Component(
             , 2000
 
         ngOnDestroy: ->
+            poool "unevent", "onLoginClick", @onLoginClick
             clearTimeout @_loginTimeout
 
 )

@@ -1,4 +1,5 @@
 import { Component } from "@angular/core"
+import { Router } from "@angular/router"
 
 Component(
     selector: "#premium"
@@ -49,8 +50,16 @@ Component(
 )(
     class Premium
 
+        @parameters: [[Router]]
+
+        constructor: (@router) -> return
+
         ngOnInit: ->
+            poool "event", "onSubscribeClick", @onSubscribeClick
             @sendHit()
+
+        onSubscribeClick: (e) =>
+            @router.navigate ["/subscribe"]
 
         onLogin: ->
             @sendHit()
@@ -66,6 +75,9 @@ Component(
 
         isUserPremium: ->
             window.test_user?.premium
+
+        ngOnDestroy: ->
+            poool "unevent", "onSubscribeClick", @onSubscribeClick
 )
 
 export { Premium }
