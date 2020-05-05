@@ -1,0 +1,17 @@
+{
+  "extends": "fbjs",
+  "plugins": [
+    "react"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "legacyDecorators": true
+    }
+  },
+  "rules": {
+    "max-len": [1, {"ignoreTemplateLiterals": true, "ignoreStrings": true}]
+  },
+  "globals": {
+    "poool": false
+  }
+}
