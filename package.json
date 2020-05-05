@@ -21,12 +21,12 @@
     "webpack-dev-server": "^3.1.0"
   },
   "dependencies": {
-    "@angular/common": "^6.0.5",
-    "@angular/compiler": "^6.0.5",
-    "@angular/core": "^6.0.5",
-    "@angular/platform-browser": "^6.0.5",
-    "@angular/platform-browser-dynamic": "^6.0.5",
-    "@angular/router": "^6.0.5",
+    "@angular/common": "^9.0.0",
+    "@angular/compiler": "^9.0.0",
+    "@angular/core": "^9.0.0",
+    "@angular/platform-browser": "^9.0.0",
+    "@angular/platform-browser-dynamic": "^9.0.0",
+    "@angular/router": "^9.0.0",
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9",
