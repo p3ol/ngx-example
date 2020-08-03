@@ -2744,10 +2744,10 @@ eslint-plugin-react@7.20.5:
     resolve "^1.17.0"
     string.prototype.matchall "^4.0.2"
 
-eslint-plugin-relay@1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-relay/-/eslint-plugin-relay-1.8.0.tgz#c5e709464b5307077ff4ccdda554e895301b7c40"
-  integrity sha512-5Qs0ozgS51RdifMBM2RtGNQWqpBW73VY0woDUluL7rGthlkrt/95hXjdXwKJheUIok0AOUGGMG3ra8PerIXLtQ==
+eslint-plugin-relay@1.8.1:
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-relay/-/eslint-plugin-relay-1.8.1.tgz#7363b1c134cfa3468377d46eadaa3a2b9b73dfcf"
+  integrity sha512-7xhyLDq3Bv5q+lKZUMYcRHq1OdFsgjuY5hAu3NNY+TkPPsdcp80de7eEJ8Ux5M3YJpnyr2UAHGksx5Exx6+I7g==
   dependencies:
     graphql "^14.0.0 || ^15.0.0-rc.1"
 
