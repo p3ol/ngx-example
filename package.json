@@ -40,6 +40,6 @@
     "zone.js": "0.11.3"
   },
   "scripts": {
-    "start": "node_modules/.bin/webpack-dev-server --config ./webpack.config.js --hot --inline --open"
+    "start": "./node_modules/.bin/webpack serve --config ./webpack.config.js"
   }
 }
