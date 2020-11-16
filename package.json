@@ -27,17 +27,17 @@
     "webpack-dev-server": "3.11.0"
   },
   "dependencies": {
-    "@angular/common": "^10.0.0",
-    "@angular/compiler": "^10.0.0",
-    "@angular/core": "^10.0.0",
-    "@angular/platform-browser": "^10.0.0",
-    "@angular/platform-browser-dynamic": "^10.0.0",
-    "@angular/router": "^10.0.0",
-    "@babel/runtime-corejs3": "^7.9.6",
-    "core-js": "^3.6.5",
-    "rxjs": "^6.5.5",
-    "tslib": "^2.0.0",
-    "zone.js": "^0.11.0"
+    "@angular/common": "10.0.0",
+    "@angular/compiler": "10.0.0",
+    "@angular/core": "10.0.0",
+    "@angular/platform-browser": "10.0.0",
+    "@angular/platform-browser-dynamic": "10.0.0",
+    "@angular/router": "10.0.0",
+    "@babel/runtime-corejs3": "7.9.6",
+    "core-js": "3.6.5",
+    "rxjs": "6.5.5",
+    "tslib": "2.0.0",
+    "zone.js": "0.11.3"
   },
   "scripts": {
     "start": "node_modules/.bin/webpack-dev-server --config ./webpack.config.js --hot --inline --open"
