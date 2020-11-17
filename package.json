@@ -36,7 +36,7 @@
     "@babel/runtime-corejs3": "7.12.5",
     "core-js": "3.6.5",
     "rxjs": "6.5.5",
-    "tslib": "2.0.0",
+    "tslib": "2.0.3",
     "zone.js": "0.11.3"
   },
   "scripts": {
