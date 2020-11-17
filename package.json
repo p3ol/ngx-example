@@ -35,7 +35,7 @@
     "@angular/router": "10.0.0",
     "@babel/runtime-corejs3": "7.12.5",
     "core-js": "3.6.5",
-    "rxjs": "6.5.5",
+    "rxjs": "6.6.3",
     "tslib": "2.0.0",
     "zone.js": "0.11.3"
   },
