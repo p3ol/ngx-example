@@ -36,7 +36,7 @@ module.exports = {
   ],
   output: {
     path: path.resolve('./dist'),
-    filename: 'bundle.[hash].js',
+    filename: 'bundle.[fullhash].js',
   },
   devtool: 'inline-source-map',
   devServer: {

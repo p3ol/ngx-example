@@ -1,7 +1,7 @@
 {
   "name": "ngx-example",
   "version": "1.0.0",
-  "description": "Simple Angular 2-6 example of how to use Poool SDK",
+  "description": "Simple Angular 2-11 example of how to use Poool SDK",
   "main": "app/index.js",
   "repository": "https://github.com/p3ol/ngx-example.git",
   "author": "Ugo Stephant <ugo@poool.fr>",
