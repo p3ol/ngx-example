@@ -1,6 +1,6 @@
 # ngx-example
 
-> Simple Angular 2-9 example of how to use Poool SDK
+> Simple Angular 2-11 example of how to use Poool SDK
 
 ### Run
 
