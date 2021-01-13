@@ -26,12 +26,12 @@
     "webpack-dev-server": "3.11.1"
   },
   "dependencies": {
-    "@angular/common": "11.0.6",
-    "@angular/compiler": "11.0.6",
-    "@angular/core": "11.0.6",
-    "@angular/platform-browser": "11.0.6",
-    "@angular/platform-browser-dynamic": "11.0.6",
-    "@angular/router": "11.0.6",
+    "@angular/common": "11.0.9",
+    "@angular/compiler": "11.0.9",
+    "@angular/core": "11.0.9",
+    "@angular/platform-browser": "11.0.9",
+    "@angular/platform-browser-dynamic": "11.0.9",
+    "@angular/router": "11.0.9",
     "@babel/runtime-corejs3": "7.12.5",
     "core-js": "3.8.2",
     "rxjs": "6.6.3",
