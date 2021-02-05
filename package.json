@@ -21,7 +21,7 @@
     "eslint-plugin-react": "7.22.0",
     "eslint-plugin-relay": "1.8.1",
     "html-webpack-plugin": "4.5.1",
-    "webpack": "5.18.0",
+    "webpack": "5.20.2",
     "webpack-cli": "4.4.0",
     "webpack-dev-server": "3.11.2"
   },
