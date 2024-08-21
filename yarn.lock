@@ -2,45 +2,45 @@
 # yarn lockfile v1
 
 
-"@angular/common@11.2.13":
-  version "11.2.13"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-11.2.13.tgz#fedd5eda9c2c5340d8d7310bdbd4606636eb7a41"
-  integrity sha512-96iZ4wlZado78yG6eY/ZmY6+H2X2hJi2XsK7iXKzc5h3oeILEkt+ulfBNkCNjMm8xPYBmLrSBueG96/T4/Bi5w==
+"@angular/common@11.2.14":
+  version "11.2.14"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-11.2.14.tgz#52887277b0ae0438e584f9ae97b417ee51a694b5"
+  integrity sha512-ZSLV/3j7eCTyLf/8g4yBFLWySjiLz3vLJAGWscYoUpnJWMnug1VRu6zoF/COxCbtORgE+Wz6K0uhfS6MziBGVw==
   dependencies:
     tslib "^2.0.0"
 
-"@angular/compiler@11.2.13":
-  version "11.2.13"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-11.2.13.tgz#3f41c1a18b62959db3a314b1a809ace607a68c81"
-  integrity sha512-HI7gfVozFW/rQoab0zVyYpU8PRHNWMk+pLc+q3ukVuByCmnBZ6kTAEQX2jnXVY8QGMmdptBgrsW/OsFaws98Zw==
+"@angular/compiler@11.2.14":
+  version "11.2.14"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-11.2.14.tgz#9d3ea26b4d2d858aab935f69af9e201f53453a0f"
+  integrity sha512-XBOK3HgA+/y6Cz7kOX4zcJYmgJ264XnfcbXUMU2cD7Ac+mbNhLPKohWrEiSWalfcjnpf5gRfufQrQP7lpAGu0A==
   dependencies:
     tslib "^2.0.0"
 
-"@angular/core@11.2.13":
-  version "11.2.13"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-11.2.13.tgz#34649d2c5fee416192e90a4187233b338e3d354d"
-  integrity sha512-xMKskq/Sbf8dkX/vx4WCwXMpDTJJ77rGlP8fVTB8az8QeOa14i6AdpmSXaJ8sl68R3v8Y1Pa9yBQytbKuxShqQ==
+"@angular/core@11.2.14":
+  version "11.2.14"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-11.2.14.tgz#3ebe298c79d5413dc670d56b7f503bd4d788d4a8"
+  integrity sha512-vpR4XqBGitk1Faph37CSpemwIYTmJ3pdIVNoHKP6jLonpWu+0azkchf0f7oD8/2ivj2F81opcIw0tcsy/D/5Vg==
   dependencies:
     tslib "^2.0.0"
 
-"@angular/platform-browser-dynamic@11.2.13":
-  version "11.2.13"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-11.2.13.tgz#95e8390da4005cda594643a55cb7a80a41784059"
-  integrity sha512-EHCG8fhnurhHUq+XKyKL3bYEcQThRYyzIJTJig28ulgvQd4TAKAbw8osL9rpjNUnCM1HjDXOqnCcPnsQIPIzMg==
+"@angular/platform-browser-dynamic@11.2.14":
+  version "11.2.14"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-11.2.14.tgz#3c7fff1a1daacba5390acf033d28c377ec281166"
+  integrity sha512-TWTPdFs6iBBcp+/YMsgCRQwdHpWGq8KjeJDJ2tfatGgBD3Gqt2YaHOMST1zPW6RkrmupytTejuVqXzeaKWFxuw==
   dependencies:
     tslib "^2.0.0"
 
-"@angular/platform-browser@11.2.13":
-  version "11.2.13"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-11.2.13.tgz#39bea0d6f9e7803f22082d3c8f0fb7ed4b68c43d"
-  integrity sha512-V70Pf3jJPbeXsiy9mtVMctVBIIoqiDhsoI+6lCehf/LaJR33oUizj+RS1wlpgOECIj9oD5EqzdvxEukR0PpnoQ==
+"@angular/platform-browser@11.2.14":
+  version "11.2.14"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-11.2.14.tgz#e52ad7a54a42a865033a17e57e213013919f1b1d"
+  integrity sha512-fb7b7ss/gRoP8wLAN17W62leMgjynuyjEPU2eUoAAazsG9f2cgM+z3rK29GYncDVyYQxZUZYnjSqvL6GSXx86A==
   dependencies:
     tslib "^2.0.0"
 
-"@angular/router@11.2.13":
-  version "11.2.13"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-11.2.13.tgz#aab59dbc24f5be3ff6b5252e0bd8e57212d1604e"
-  integrity sha512-Fae/ViC4Ho2rGF5wQLrnJcucuhVGx29QqZs2K0C6sj4UUNRUzYWZknnGWqRj3Z9ft7XIi38Q2yCkSc76iS1aqQ==
+"@angular/router@11.2.14":
+  version "11.2.14"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-11.2.14.tgz#4a8eb6d010a1a45c8e7f0c3b5b705959bdb69294"
+  integrity sha512-3aYBmj+zrEL9yf/ntIQxHIYaWShZOBKP3U07X2mX+TPMpGlvHDnR7L6bWhQVZwewzMMz7YVR16ldg50IFuAlfA==
   dependencies:
     tslib "^2.0.0"
 
@@ -5493,9 +5493,7 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-zone.js@0.11.4:
-  version "0.11.4"
-  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.11.4.tgz#0f70dcf6aba80f698af5735cbb257969396e8025"
-  integrity sha512-DDh2Ab+A/B+9mJyajPjHFPWfYU1H+pdun4wnnk0OcQTNjem1XQSZ2CDW+rfZEUDjv5M19SBqAkjZi0x5wuB5Qw==
-  dependencies:
-    tslib "^2.0.0"
+zone.js@0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.15.0.tgz#4810624e58d6dcf7b8379c1631765589917a0d8f"
+  integrity sha512-9oxn0IIjbCZkJ67L+LkhYWRyAy7axphb3VgE2MBDlOqnmHMPWGYMxJxBYFueFq/JGY2GMwS0rU+UCLunEmy5UA==
