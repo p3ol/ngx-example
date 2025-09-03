@@ -25,8 +25,7 @@ export class PooolService {
           this.access.next(
             Access
               .init('V9EAO-996I1-CIVYF-LPGKS')
-              .config(
-                {
+              .config({
                 user_is_premium: true,
                 cookies_domain: 'localhost',
                 cookies_enabled: true,
