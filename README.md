@@ -6,4 +6,4 @@
 
 `yarn install && yarn start`
 
-Opens `http://localhost:8888`
+Opens `http://localhost:4200`
