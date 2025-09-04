@@ -1,0 +1,18 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+
+  .article {
+    width: auto;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid black;
+
+    .chapo {
+      height:40%;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+  }
+}

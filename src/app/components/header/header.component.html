@@ -1,0 +1,15 @@
+<div class="header">
+  <div class="left">
+    <span class="link" [routerLink]="['/']">Mousteyton Post</span>
+    <span class="link" [routerLink]="['/free-article']">Free Article</span>
+    <span class="link" [routerLink]="['/article']">Premium Post</span>
+  </div>
+  <div class="right">
+    <ng-container *ngIf="!isLoggedIn()">
+      <button (click)="login()">Login</button>
+    </ng-container>
+    <ng-container *ngIf="isLoggedIn()">
+      <button (click)="logout()">Logout</button>
+    </ng-container>
+  </div>
+</div>
