@@ -19,7 +19,7 @@
     "@angular/forms": "20.2.0",
     "@angular/platform-browser": "20.2.0",
     "@angular/router": "20.2.0",
-    "@types/poool-access": "5.18.1",
+    "@types/poool-access": "5.19.0",
     "rxjs": "7.8.0",
     "tslib": "2.3.0"
   },
